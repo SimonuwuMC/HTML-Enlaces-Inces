@@ -1,0 +1,26 @@
+<html>
+<head>
+<title> Juegos más conocidos </title>
+</head>
+<body>
+<center><h1><b><i> JUEGOS MÁS CONOCIDOS </center></h1></b></i>
+<ul>
+<li><h3><b> Minecraft</b></h3></li>
+<a target="_blank" href="Minecraft.html">Ir a foto</a>
+<br>
+<img src="Minecraft.jpg" widht="150" height="150">
+<hr>
+<li><h3><b> Roblox</b></h3></li>
+<a target="_blank" href="Roblox.html">Ir a foto</a>
+<br>
+<img src="Roblox.png" widht="150" height="150">
+<hr>
+<li><h3><b> Fortnite</b></h3></li>
+<a target="_blank" href="Fortnite.html">Ir a foto</a>
+<br>
+<img src="Fortnite.jpg" widht="150" height="150">
+<hr>
+</ul>
+<center><cite> Simón de Sousa</center>
+</body>
+</html>
